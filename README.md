@@ -1,10 +1,10 @@
 <p align="center">
-    <img src="https://xiangxinai.cn/assets/logo_pc-7d12ff80.svg" width="400"/>
+    <img src="assets/logo.png" width="400"/>
 <p>
 <br>
 
 <p align="center">
-        🤗 <a href="https://huggingface.co/xiangxinai">Hugging Face</a>&nbsp&nbsp ｜  &nbsp&nbsp<a href="assets/wechat.png">WeChat (关注微信公众号私信加群)</a>&nbsp&nbsp ｜  &nbsp&nbsp<a href="https://www.xiangxinai.cn">Web</a>
+        🤗 <a href="https://huggingface.co/xiangxinai">Hugging Face</a>&nbsp&nbsp ｜  &nbsp&nbsp<a href="assets/wechat.jpg">WeChat (关注微信公众号私信加群)</a>&nbsp&nbsp ｜  &nbsp&nbsp<a href="https://www.xiangxinai.cn">Web</a>
 </p>
 <br><br>
   
